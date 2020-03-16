@@ -1,0 +1,2 @@
+rootProject.name='SpeakTest'
+include ':app'
