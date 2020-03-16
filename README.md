@@ -11,7 +11,7 @@ speaking the transcript is printed in red at the top of the screen.
 
 ## Development
 
-1. Clone this repo: 'git clone git@github.com:pkolb/SpeakTest-Android.git'
+1. Clone this repo: `git clone git@github.com:pkolb/SpeakTest-Android.git`
 2. Open the repo in Android Studio
 3. [Set up your Android device for development](https://developer.android.com/studio/run/device?hl=de#setting-up)
 4. click **Run** in Android Studio to build and run your app on the device.
